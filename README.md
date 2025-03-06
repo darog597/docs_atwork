@@ -25,9 +25,9 @@ Robocup is about learning and understanding robotics, we don't want to hand out 
 1. Check out [our Repo](https://github.com/autonohm/synthetic_data_generation) for synthetic data creation of training images for neural networks.
 
 
-## Team Image (Eindhoven 2024)
+## Team Image (SH8 2025)
 
-![](https://github.com/autonohm/docs_atwork/blob/main/images/Team_eindhoven.jpg)
+![](https://github.com/autonohm/docs_atwork/blob/main/images/2025_Teamfoto.png)
 
 ## Robot Image - Ohmeg4 (Ohmnibot V4)
 
